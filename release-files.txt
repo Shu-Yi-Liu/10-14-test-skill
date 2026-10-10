@@ -1,0 +1,6 @@
+README.md
+release-files.txt
+skills/hello skill/SKILL.md
+skills/hello skill/agents/openai.yaml
+skills/hello skill/LICENSE
+tests/behavioral-tests.md

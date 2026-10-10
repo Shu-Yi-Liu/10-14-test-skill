@@ -1,0 +1,4 @@
+interface:
+  display_name: "hello skill"
+  short_description: "将从 PDF 粘贴的文献原文整理为两张含标题与摘要的知识卡片"
+  default_prompt: "请使用 $hello-skill，将我粘贴的 PDF 文献原文转换成两张知识卡片，每张包含标题和摘要，仅使用原文支持的信息。"

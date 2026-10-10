@@ -1,0 +1,16 @@
+# Local reading material: excluded from source control and releases.
+*.[pP][dD][fF]
+
+# Generated release archives.
+/dist/
+
+# Temporary development and extraction files.
+/tmp/
+/.skill-init/
+/.validation-deps/
+__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+*.log
+*.bak
